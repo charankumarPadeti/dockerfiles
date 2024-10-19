@@ -1,4 +1,4 @@
 FROM almalinux:8
 LABEL TRAINING ="DEVOPS" \
-      TRAINER ="Charankumar" \
+      TRAINER ="sivakumar" \
       DURATION="120HRS"
