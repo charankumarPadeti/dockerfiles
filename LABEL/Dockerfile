@@ -8,3 +8,8 @@ LABEL TRAINING="DEVOPS" \
 # LABEL TRAINING="DEVOPS" \
 #       TRAINER="Sivakumar" \
 #       DURATION="120HRS" \
+
+FROM almalinux:8
+LABEL TRAINING="DEVOPS" \
+      TRAINER="Kirankumar" \
+      DURATION="120HRS"
